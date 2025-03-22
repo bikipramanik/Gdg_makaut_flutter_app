@@ -30,7 +30,7 @@ class _BottomNavBarGDGState extends State<BottomNavBarGDG> {
         currentScreen = HomeScreen();
       case 1:
         bottomNavBarIndex = 1;
-        appbarTitle = Text("Event Screen");
+        appbarTitle = AppbarWidget();
         currentScreen = EventScreen();
       case 2:
         bottomNavBarIndex = 2;
