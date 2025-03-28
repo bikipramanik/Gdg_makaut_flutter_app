@@ -6,7 +6,7 @@ class ResourcesScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Text("Resources"),
+      child: Text("Need Resources for Resource screen"),
     );
   }
 }

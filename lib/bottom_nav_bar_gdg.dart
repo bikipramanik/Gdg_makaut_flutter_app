@@ -42,7 +42,7 @@ class _BottomNavBarGDGState extends State<BottomNavBarGDG> {
         currentScreen = TeamScreen();
       case 4:
         bottomNavBarIndex = 4;
-        appbarTitle = Text("FAQ");
+        appbarTitle = AppbarWidget();
         currentScreen = FAQScreen();
     }
   }

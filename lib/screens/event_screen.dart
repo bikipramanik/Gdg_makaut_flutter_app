@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:gdg_makaut/provider/home_screen_provider/event_screen_provider/event_provider.dart';
+import 'package:gdg_makaut/provider/event_screen_provider/event_provider.dart';
 import 'package:gdg_makaut/utils/event_utils.dart';
 import 'package:gdg_makaut/widgets/event_screen_widget/event_scroll_widget.dart';
 
